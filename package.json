@@ -1,5 +1,5 @@
 {
-  "name": "mgtestutils",
+  "name": "app-builder-gh-action",
   "version": "0.0.1",
   "private": true,
   "dependencies": {

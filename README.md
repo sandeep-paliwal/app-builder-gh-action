@@ -1,4 +1,4 @@
-# mgtestutils
+# app-builder-gh-action
 
 Welcome to my Adobe I/O Application!
 
