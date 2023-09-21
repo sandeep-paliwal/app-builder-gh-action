@@ -10,7 +10,7 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        node-version: ['16']
+        node-version: [16.7]
         os: [ubuntu-latest]
     steps:
       - name: Checkout
