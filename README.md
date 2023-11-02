@@ -1,4 +1,4 @@
-# app-builder-gh-action-2
+# app-builder-gh-action
 
 Welcome to my Adobe I/O Application! 2 3
 
