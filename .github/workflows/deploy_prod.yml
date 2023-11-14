@@ -1,8 +1,9 @@
 name: AIO App CI
 
 on:
-  release:
-    types: [released]
+  push:
+    branches:
+      - main
 jobs:
   deploy:
     name: Deploy to Prod
